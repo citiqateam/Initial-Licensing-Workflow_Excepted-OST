@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.9fXoN5jHCXs",
+      "value": "CfDJ8KCjmHPIJJxCpi_s_7PsCTiixJ44cKjFdbIp8uBkk3YT-rlJOAqrN9ZbOGp_fWwJv24KBijZga2VF-nL1_n1iFUbncVHRqOnH_97D60dt727tNIGZlCQAouKcvfWdh54k4eXrselW73KUTK5fHHJ4aM",
+      "domain": "al-arise-qa-main.citigovcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ARRAffinity",
+      "value": "9e6e0bafa2df499af7f55527057a03515ef364f74068aa7248649a80da6d1590",
+      "domain": ".al-arise-qa-main.citigovcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "value": "9e6e0bafa2df499af7f55527057a03515ef364f74068aa7248649a80da6d1590",
+      "domain": ".al-arise-qa-main.citigovcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_user",
+      "value": "aQsf73UQMXPPa4e5PMwNlH|2026-01-15T14:08:45.097Z",
+      "domain": "al-arise-qa-main.citigovcloud.com",
+      "path": "/",
+      "expires": 1800022125.097935,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "4fq0VWCf5vK4RaMUaUl/EL|1768486125427|1768486125427",
+      "domain": "al-arise-qa-main.citigovcloud.com",
+      "path": "/",
+      "expires": 1768487925.427448,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "CfDJ8KCjmHPIJJxCpi_s_7PsCTjGEpMe4TrdwLnUvTARQ86OthbOYB3aOgzxepYCzx88nUmUMM-8BpnVbqVSHPmlVTO1MXyksOHoNu3PDPh_nZlRjnFmQR8wF_pVaxMKGSGjOFaHm6wfhB5DqeZpEXyzahnGX5NCcgdrHygyziteq_lT6gThG6pnTke0Y-QcQq_04z-kmbCbEqRz-rOyOOAPYgqQPFTZXaUoMa5Tloae9A4Ih12fOGoG23MKYagBqYdL7y9wvt15mDcexvGfytPtNz3ovVjhVU4MEo2OoFqMuYvUEdrilSsICKIFQeS6F1ETLBNLQB5jKvZqpBz1fmG9iIRXxLHhgyYcrRKJW5g-GMGpBzAHiBbBuT1rO59yqd8Q36QEXUllOwQGZTofuS84loM1lFDFAissjxEZG6_I8ZLGGaQwiE0Uaz7xj6U65xwgt70fFAVnxsm8eXFmpBPN7JDWLFOAX3Mmh2smsftVhJBxEdREjLcITvyHLvOy83B5yc4_-h-b7nUJDP66acTivk_dEdVtQjBU4N5Mbh79vkFUgJTu3G16Ow8RAgyx6kAl8ry2ytoCe4ieGBGkdjKJmMeFj31ujNxCpXinB5Rlxr1iz9lRKLF0g_2ytcfwA1J9hVDJvdonfZpaRUL_V01xfF16W_kZjDcqkJxWPc9_NjQJgpUL_CvOcP9PNL2D97QnQEpgVat6JQGFxIgfjTvPRATcSAaaky2bvThY2SlBhGfsaxWzuvmIyd5-18iIfA5LqcOQ50u03rbps4oqm1uk3qiYvkhvDnIAuQf1g58plNLg8c2OjOTlQ3B566ym3IDCxxvowGA4Bv0IxZ-5fpxQPtkApcC-zXl7kZXBvh4vNIJ6mZWQgChxDBj_nHISnBaov6ZXt53JU4HgMu27dfFMaKLD3xSwcnLSIrtqC1FZvHxQeRYGTvdOlL2NdGzI5cXFWLyvWsRfR_6r4aMsr90brAJHiSzixz_5S1MD4nDtTY43Do_RONhaYxJ0_-R_htrIYSnMfMaAjcOdMPm2nIWxnzsL0bQh05aU3ENjWmtX0tLt",
+      "domain": "al-arise-qa-main.citigovcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNetCore.Mvc.CookieTempDataProvider",
+      "value": "CfDJ8KCjmHPIJJxCpi_s_7PsCTgDb3iBwTLsjdngwiFM66_VTz6PTU7uI6K9-xU20ZoVo_xLeA4ScrekjRciCAEM5LbAAlOaFmzqn4XH9ONtL48w_53uZgUUHjxXxly3IJuJesHmOyS2Btr43pUpjqsxtv3bzz5Oobdy1-WssxUyBQU7",
+      "domain": "al-arise-qa-main.citigovcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://al-arise-qa-main.citigovcloud.com",
+      "localStorage": [
+        {
+          "name": "logoutOnClose",
+          "value": "false"
+        }
+      ]
+    }
+  ]
+}

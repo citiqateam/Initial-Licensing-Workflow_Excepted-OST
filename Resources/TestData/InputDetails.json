@@ -1,0 +1,12 @@
+{
+
+  "ProviderPortalURL": "https://al-arise-qa-publicaccess.citigovcloud.com/Account/Login?ReturnUrl=%2F",
+  "AdminURL": "https://al-arise-qa-main.citigovcloud.com/Account/Login",
+  "EmailID": "TestTestTest5@sharklasers.com",
+  "Password": "Pass@123",
+  "EmailIDforThirdParty": "TestTestTest5",
+  "providerId": "P00507",
+  "applicationId": "AP989",
+  "facilityId": "",
+  "subsidyApplicationId": "FSA00596"
+}

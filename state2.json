@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.9fXoN5jHCXs",
+      "value": "CfDJ8P-wY_cfB_9InDrhwe27h3M7339JZhIkihZsG7lSZgT6qEkr5MKkAtKnWYDjHfqBzzN9sR_73zaWVvjhhAaIbRkPiJEc4v6pxhhDExGal7kyppExjKfvYHsvPMqDJffIo4yNVlv-euu-verw0Nxsxqw",
+      "domain": "al-arise-qa-publicaccess.citigovcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ai_user",
+      "value": "ORH096es0Y8TOoJhnxV0wU|2025-12-24T14:25:06.433Z",
+      "domain": "al-arise-qa-publicaccess.citigovcloud.com",
+      "path": "/",
+      "expires": 1798122306.433989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "arB7bbLUGdpJq0fVNKcY0Z|1766586308506|1766586308506",
+      "domain": "al-arise-qa-publicaccess.citigovcloud.com",
+      "path": "/",
+      "expires": 1766588108.507177,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "CfDJ8P-wY_cfB_9InDrhwe27h3Oi3EjLq_dj3gf_L-GEMFhZ73Si082uGs9EC5JuBkzkXEpNUigjxnxS74pv1H6ZZLabOYMsUB_dqEl8-HCC1DpxT12Jd7Xq1kx00JLe2xJNFN35e09hzLIVPz9UYu6T77cwh7OkH7RA-hube9L9zYO034hCodo0GS9Pyp3u2ZRfrzOgey0qaQ3FVbtnZid7X-y2a34hDYKHcEMptw71yzGwZxsyW8TgUGoblVLrXLgpudEFFoVjCpEn-2AxhSza9_Zqy-8sS_0pB2348DrBr4On47rDMR1Mj_ifR9jRE_Sl4eq1sVFtoEc40wZ8mIfa1h758-Tk3gz-LoKjRfz4PkxQBFAEYqerjJS_qhgBIvZeg8FLcx7weWQ-2olRWOwVjTAKveibGuwICXNroZ6RFOZYqWzN-MlKpqy0MlVbKhh17nC1apQIi9fd2xHvAxxrV0RkT-wEY6fjsHRNG3PqyyZ49X9IptYbrLCrwa0lBUxWdymp1X-4M5yTyHvOUHhg3jMJ-uuWj0jxcFAFe_bXbVNPDqSe1IzDekMGZKzV_db9TbCpLjA7lpSOW7dDXVc529LCvqOuoOphl7kkQxK7wKVM0FOLhUE1ndSIJJbYtKgaSDyTTmSeEtQggsZ1kb-tmLZWsIsFexeknZp8EgHQXOme9M-wZO8G4Td0-RG-CCygtG1BBMI6MmRAsgYpS-3HTuyRlJzHCE7u3-OyYf_Mbn4Hn7Kv_YwFE4bwAnAzOGDvtIoCFTNyt6ms11C383F-r1_TPUZqf93waMXUr_EbBQgI_UtqRts7VQKcBAINj-mDdcuenQ4FaRgQKkkg2D_3pJBF-Vs7z1_llB8MMyP5tIk9kesDoSiGKMZnroe95YKQb-jf5GA70F27N5T_7CxPtj6MVmBiCUqI0BYy4HfJN62TadLQoaZlINEFmnxNY2UonIidV3eYDsknL65VgYu_d9vFt2woFBDrIrbskcVAvPDvacpV2KNf2y7j0q52T7p0wnNrKd3tstQ2gw2m86WoFBY8YGwXD9jtCDXdgbdSuKEjoSnNVZ8GpoeLVhMsJsmQ5A",
+      "domain": "al-arise-qa-publicaccess.citigovcloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://al-arise-qa-publicaccess.citigovcloud.com",
+      "localStorage": [
+        {
+          "name": "logoutOnClose",
+          "value": "false"
+        }
+      ]
+    }
+  ]
+}
